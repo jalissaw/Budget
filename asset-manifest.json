@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/jalissaw/Movie-TVApp/static/css/main.0cdee523.chunk.css",
+    "main.js": "/jalissaw/Movie-TVApp/static/js/main.14e10afc.chunk.js",
+    "main.js.map": "/jalissaw/Movie-TVApp/static/js/main.14e10afc.chunk.js.map",
+    "runtime-main.js": "/jalissaw/Movie-TVApp/static/js/runtime-main.b0606db6.js",
+    "runtime-main.js.map": "/jalissaw/Movie-TVApp/static/js/runtime-main.b0606db6.js.map",
+    "static/css/2.8bae3570.chunk.css": "/jalissaw/Movie-TVApp/static/css/2.8bae3570.chunk.css",
+    "static/js/2.f564949e.chunk.js": "/jalissaw/Movie-TVApp/static/js/2.f564949e.chunk.js",
+    "static/js/2.f564949e.chunk.js.map": "/jalissaw/Movie-TVApp/static/js/2.f564949e.chunk.js.map",
+    "static/js/3.95f37d83.chunk.js": "/jalissaw/Movie-TVApp/static/js/3.95f37d83.chunk.js",
+    "static/js/3.95f37d83.chunk.js.map": "/jalissaw/Movie-TVApp/static/js/3.95f37d83.chunk.js.map",
+    "index.html": "/jalissaw/Movie-TVApp/index.html",
+    "static/css/2.8bae3570.chunk.css.map": "/jalissaw/Movie-TVApp/static/css/2.8bae3570.chunk.css.map",
+    "static/css/main.0cdee523.chunk.css.map": "/jalissaw/Movie-TVApp/static/css/main.0cdee523.chunk.css.map",
+    "static/js/2.f564949e.chunk.js.LICENSE.txt": "/jalissaw/Movie-TVApp/static/js/2.f564949e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/jalissaw/Movie-TVApp/static/media/giphy (1).14ea5aef.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0606db6.js",
+    "static/css/2.8bae3570.chunk.css",
+    "static/js/2.f564949e.chunk.js",
+    "static/css/main.0cdee523.chunk.css",
+    "static/js/main.14e10afc.chunk.js"
+  ]
+}
